@@ -11,6 +11,6 @@ public class HelloApi {
 
    @RequestMapping("/")
     public String getHello() {
-        return "Hello World";
+        return "Hello World TeamCity";
     }
 }
